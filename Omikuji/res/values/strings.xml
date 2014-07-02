@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Omikuji</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="omikuji_button">おみくじを引く</string>
+    <string name="omikuji_result_0">大吉</string>
+    <string name="omikuji_result_1">吉</string>
+    <string name="omikuji_result_2">中吉</string>
+    <string name="omikuji_result_3">小吉</string>
+    <string name="omikuji_result_4">凶</string>
+
+
+</resources>
